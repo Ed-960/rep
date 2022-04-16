@@ -1,0 +1,141 @@
+.container {
+   max-width: 1170px;
+   margin: 0 auto;
+   padding: 35px 170px;
+}
+
+.header_line {
+   border-top: 2px solid rgb(197, 193, 193);
+   border-bottom: 2px solid rgb(197, 193, 193);
+   background-color: rgb(236, 236, 236);
+   margin: -10px;
+   padding: 7px;
+}
+
+.header_text {
+   text-align: center;
+   padding: 13%;
+   text-decoration: none;
+   color: rgb(146, 140, 140);
+}
+
+#menu-contacts {
+   margin-left: -220px;
+   text-align: end;
+   color: #7B7B7B;
+}
+
+#exper {
+   margin-left: 30px;
+}
+
+.nav_info,
+.blog {
+   display: flex;
+   justify-content: space-between;
+}
+
+.content {
+   border-top: 1px solid #ADADAD;
+}
+
+.specialist {
+   margin-top: -20px;
+   color: #9B9B9B;
+}
+
+.cv {
+   margin-top: -5px;
+   color: #9B9B9B;
+}
+
+.contact,
+.menu {
+   line-height: 2px;
+   margin-top: 77px;
+   font-size: 13px;
+   display: flex;
+   flex-direction: column;
+
+}
+
+.contact>div>p:first-letter {
+   text-transform: uppercase;
+
+}
+
+.contact {
+   color: #B0B0B0;
+   margin-left: -300px;
+
+}
+
+.img {
+   margin-top: 10px;
+}
+
+.lorem {
+
+   margin-top: -3px;
+   color: #b3b3b3;
+}
+
+.education p {
+   color: #747474;
+}
+
+.edu_info {
+   margin-left: 40px;
+
+}
+
+.box_lorem {
+   color: #747474;
+}
+
+.inner {
+   padding-left: 40px;
+   border-left: 1px solid #ADADAD;
+}
+
+.univercity {
+   font-style: italic;
+}
+
+.science {
+   margin-top: -22px;
+   color: #ADADAD;
+}
+
+.dat {
+   margin-top: 25px;
+   color: rgb(82, 80, 80);
+}
+
+#hide_me {
+   color: white;
+}
+
+.skills_info {
+   margin-right: 183px;
+
+}
+
+#id {
+   border-bottom: 1px solid rgb(128, 126, 126);
+}
+
+.box {
+   border-left: 1px solid rgb(128, 126, 126);
+   padding-left: 30px;
+}
+
+.dat pre {
+   color: #ADADAD;
+}
+
+.footer {
+   text-align: center;
+   color: rgb(80, 80, 80);
+   margin-top: -70px;
+}
